@@ -1,0 +1,24 @@
+.card--container {
+	min-width: 325px;
+	max-width: 400px;
+}
+
+.card--image {
+	width: 100%;
+}
+
+.card--price {
+	font-weight: bolder;
+	font-size: xx-large;
+}
+
+.card--title {
+	text-transform: uppercase;
+	font-size: x-large;
+}
+
+.card--adress {
+	text-transform: uppercase;
+	font-size: small;
+	color: wheat;
+}
